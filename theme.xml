@@ -19,7 +19,7 @@ credit:         Logo and Controller artwork by Eric Hettervik
       <pos>0 0</pos>
       <size>1 1</size>
       <path>./_inc/images/space.png</path>
-      <color>141414</color>
+      <color>000000</color>
     </image>
   </view>
 
@@ -27,12 +27,12 @@ credit:         Logo and Controller artwork by Eric Hettervik
     <view name="system">
       <carousel name="systemcarousel">
         <type>horizontal</type>
-        <color>14141400</color>
+        <color>00000000</color>
         <logoScale>1.9</logoScale>
         <logoSize>0.15625 0.097222222222222</logoSize>
       </carousel>
       <text name="systemInfo">
-        <backgroundColor>14141400</backgroundColor>
+        <backgroundColor>00000000</backgroundColor>
         <color>666666</color>
         <fontPath>./_inc/fonts/Circular-Bold.ttf</fontPath>
         <fontSize>0.0222222222222222</fontSize>
@@ -198,7 +198,7 @@ credit:         Logo and Controller artwork by Eric Hettervik
       <pos>0.725 0</pos>
       <size>0.275 1</size>
       <path>./_inc/images/space.png</path>
-      <color>141414</color>
+      <color>000000</color>
     </image>
     <image name="logo">
       <pos>0.8625 0.1527777777777778</pos>
